@@ -9,10 +9,6 @@
 
 <hr/>
 
-- 🔭 I’m currently working on [CougarCS-Client](https://github.com/CougarCS/CougarCS-Client)
-
-- 🌱 I’m currently learning **Next.js, Spring Boot**
-
 - 📫 How to reach me **vyas0189@gmail.com**
 
 <hr/>
