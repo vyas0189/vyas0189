@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyas0189&label=Profile%20views&color=537a33&style=flat" alt="vyas0189" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyas0189" alt="vyas0189" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyas0189&theme=monokai" alt="vyas0189" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vyasr0189" target="blank"><img src="https://img.shields.io/twitter/follow/vyasr0189?logo=twitter&style=for-the-badge" alt="vyasr0189" /></a> </p>
 
